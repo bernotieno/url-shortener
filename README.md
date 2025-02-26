@@ -74,3 +74,5 @@ Ensure you have **Go** installed on your system. You can download it from [golan
 
 - If a non-existent short URL is accessed, a custom error page is shown instead of the default HTTP error message.
 
+## Deployment
+Find the application online on: https://url-shortener-fj08.onrender.com
