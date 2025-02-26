@@ -72,7 +72,7 @@ Ensure you have **Go** installed on your system. You can download it from [golan
 
 ## Error Handling
 
-- If a non-existent short URL is accessed, a custom error page is shown instead of the default HTTP error message.
+- If a non-existent short URL is accessed, a custom error page is shown.
 
 ## Deployment
 Find the application online on: https://url-shortener-fj08.onrender.com
