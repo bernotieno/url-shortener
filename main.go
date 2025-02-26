@@ -22,7 +22,7 @@ func main() {
 	})
 	http.HandleFunc("/api/shorten", handler.ShortenURLHandler)
 
-	port := "8080"
+	port := "9000"
 	log.Printf("Server running at http://localhost:%s\n", port)
 	log.Fatal(http.ListenAndServe(":"+port, nil))
 }
